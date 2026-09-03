@@ -1,0 +1,7 @@
+{
+  "name": "NovaTech Solutions",
+  "description": "Professional tech support and solutions in Tzaneen. Computer repairing, POS reselling, CCTV maintenance, hardware, and digital services.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
